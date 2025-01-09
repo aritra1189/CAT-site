@@ -1,0 +1,19 @@
+.cat-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    height: 50%;
+  }
+  
+  .cat-table th, .cat-table td {
+    border: 3px solid #240303;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .cat-table img {
+    width: 50px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
